@@ -1,15 +1,9 @@
 #include<iostream>
-#include<string>
-#include<algorithm>
 #include<vector>
-#include<list>
-#include<stack>
 #include<queue>
-#include<utility>
-
+#include<algorithm>
 
 using namespace std;
-
 vector<bool> v1; // y에 관한 체크 배열   값 y
 vector<bool> v2; // / 방향 체크 배열     값 x+y
 vector<bool> v3;// \ 방향 체크 배열      값 x-y+n-1

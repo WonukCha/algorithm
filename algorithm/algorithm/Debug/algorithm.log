@@ -1,13 +1,15 @@
-﻿빌드 시작: 2019-07-12 오후 1:44:43
+﻿빌드 시작: 2019-07-30 오후 10:13:22
      1>2 노드의 "D:\git\algorithm\algorithm\algorithm\algorithm.vcxproj" 프로젝트(Build 대상)입니다.
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "부분수열의_합.cpp"
-         부분수열의_합.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt skil_check.cpp
+         skil_check.cpp
+     1>d:\git\algorithm\algorithm\algorithm\skil_check.cpp(35): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>d:\git\algorithm\algorithm\algorithm\skil_check.cpp(27): warning C4717: 'func' : 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\git\algorithm\algorithm\Debug\algorithm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\git\algorithm\algorithm\Debug\algorithm.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\git\algorithm\algorithm\Debug\algorithm.lib" /MACHINE:X86 "Debug\부분수열의_합.obj"
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\git\algorithm\algorithm\Debug\algorithm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\git\algorithm\algorithm\Debug\algorithm.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\git\algorithm\algorithm\Debug\algorithm.lib" /MACHINE:X86 Debug\skil_check.obj
          algorithm.vcxproj -> D:\git\algorithm\algorithm\Debug\algorithm.exe
      1>"D:\git\algorithm\algorithm\algorithm\algorithm.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
 
 빌드했습니다.
 
-경과 시간: 00:00:00.79
+경과 시간: 00:00:01.47

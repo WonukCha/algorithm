@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="부분수열의_합.cpp">
+    <ClCompile Include="skil_check.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
