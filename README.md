@@ -1,2 +1,4 @@
 # algorithm
-Study
+
+c++ 11
+visual studio 2013
