@@ -27,8 +27,8 @@ int main(void)
 	int nVertexCount, nEdgeCount;
 	cin >> nVertexCount >> nEdgeCount;
 
-	//¸ø°¡´Â Áö¿ªÀº ¹«ÇÑ´ë Ç¥±â
-	//½ÃÀÛ Áö¿ªÀº 0À¸·Î Ç¥±â
+	//ëª»ê°€ëŠ” ì§€ì—­ì€ ë¬´í•œëŒ€ í‘œê¸°
+	//ì‹œìž‘ ì§€ì—­ì€ 0ìœ¼ë¡œ í‘œê¸°
 
 	priority_queue < pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
 
