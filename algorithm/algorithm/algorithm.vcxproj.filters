@@ -19,6 +19,15 @@
     <Filter Include="소스 파일\programmers\해시">
       <UniqueIdentifier>{9a52c00e-f23e-4ad5-afd6-aa167f035901}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\programmers\스택큐">
+      <UniqueIdentifier>{6cfe4a2d-313f-4616-ba1e-65e37264c309}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ+%3f%3f%3f">
+      <UniqueIdentifier>{c50849c7-005e-434b-9002-b9bc1b63d5eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\programmers\깊이너비우선탐색">
+      <UniqueIdentifier>{9a000272-5f38-45ed-9281-03f7e744079a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Default.cpp">
@@ -32,6 +41,192 @@
     </ClCompile>
     <ClCompile Include="programmers\해시\위장.cpp">
       <Filter>소스 파일\programmers\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\해시\베스트앨범.cpp">
+      <Filter>소스 파일\programmers\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\스택큐\기능개발cpp.cpp">
+      <Filter>소스 파일\programmers\스택큐</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\1로_만들기.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\2xn_타일링.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_1005.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_1074.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_1149.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_1182.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_1197.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_1260.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_1463.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_1629.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_1753.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_1912.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_1920.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_1927.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_1931.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_1991.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_2178.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_2217.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_2252.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_2293.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_2579.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_2623.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_5543.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_10039.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_10816_counting.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_11047.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_11053.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_11404.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_11724.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_11728.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_11779.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_11780.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_14681.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_15649.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_15688.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\JS_BOJ_1926.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\N_Queen.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\RGB거리.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\skil_check.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\test.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\WU_BOJ_1926.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\계단_오르기.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\기본틀.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\동전_0.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\동전1.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\로프.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\부분수열의_합.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\소스.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\수_정렬하기_2.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\수_정렬하기_5.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\수_찾기.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\연속합.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\하노이탑.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\회의실배정.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\스택큐\프린터.cpp">
+      <Filter>소스 파일\programmers\스택큐</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\스택큐\다리를지나는트럭.cpp">
+      <Filter>소스 파일\programmers\스택큐</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\깊이너비우선탐색\타겟넘버.cpp">
+      <Filter>소스 파일\programmers\깊이너비우선탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\깊이너비우선탐색\네트워크.cpp">
+      <Filter>소스 파일\programmers\깊이너비우선탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\깊이너비우선탐색\단어변환.cpp">
+      <Filter>소스 파일\programmers\깊이너비우선탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\깊이너비우선탐색\여행경로.cpp">
+      <Filter>소스 파일\programmers\깊이너비우선탐색</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
