@@ -1,5 +1,4 @@
 # algorithm
 
-c++ 11
-visual studio 2013
+Visual Studio 2019 (v142)
 windows 10
