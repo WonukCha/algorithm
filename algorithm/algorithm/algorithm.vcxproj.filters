@@ -13,10 +13,25 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\programmers">
+      <UniqueIdentifier>{5e1d0106-6856-481f-aee8-4abc9f6a9278}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\programmers\해시">
+      <UniqueIdentifier>{9a52c00e-f23e-4ad5-afd6-aa167f035901}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="skil_check.cpp">
+    <ClCompile Include="Default.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\해시\완주하지못한선수.cpp">
+      <Filter>소스 파일\programmers\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\해시\전화번호목록.cpp">
+      <Filter>소스 파일\programmers\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\해시\위장.cpp">
+      <Filter>소스 파일\programmers\해시</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
