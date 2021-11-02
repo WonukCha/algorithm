@@ -228,5 +228,8 @@
     <ClCompile Include="programmers\깊이너비우선탐색\여행경로.cpp">
       <Filter>소스 파일\programmers\깊이너비우선탐색</Filter>
     </ClCompile>
+    <ClCompile Include="programmers\스택큐\주식가격.cpp">
+      <Filter>소스 파일\programmers\스택큐</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

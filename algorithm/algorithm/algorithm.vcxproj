@@ -194,6 +194,7 @@
     <ClCompile Include="programmers\스택큐\다리를지나는트럭.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="programmers\스택큐\주식가격.cpp" />
     <ClCompile Include="programmers\스택큐\프린터.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
