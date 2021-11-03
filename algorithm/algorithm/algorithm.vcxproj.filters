@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\programmers\깊이너비우선탐색">
       <UniqueIdentifier>{9a000272-5f38-45ed-9281-03f7e744079a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\programmers\힙">
+      <UniqueIdentifier>{902201af-6132-45b5-b1cd-326124acffcd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Default.cpp">
@@ -44,9 +47,6 @@
     </ClCompile>
     <ClCompile Include="programmers\해시\베스트앨범.cpp">
       <Filter>소스 파일\programmers\해시</Filter>
-    </ClCompile>
-    <ClCompile Include="programmers\스택큐\기능개발cpp.cpp">
-      <Filter>소스 파일\programmers\스택큐</Filter>
     </ClCompile>
     <ClCompile Include="BOJ\1로_만들기.cpp">
       <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
@@ -230,6 +230,12 @@
     </ClCompile>
     <ClCompile Include="programmers\스택큐\주식가격.cpp">
       <Filter>소스 파일\programmers\스택큐</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\스택큐\기능개발.cpp">
+      <Filter>소스 파일\programmers\스택큐</Filter>
+    </ClCompile>
+    <ClCompile Include="더맵게.cpp">
+      <Filter>소스 파일\programmers\힙</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
