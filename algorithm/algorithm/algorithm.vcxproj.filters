@@ -22,14 +22,14 @@
     <Filter Include="소스 파일\programmers\스택큐">
       <UniqueIdentifier>{6cfe4a2d-313f-4616-ba1e-65e37264c309}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\BOJ+%3f%3f%3f">
-      <UniqueIdentifier>{c50849c7-005e-434b-9002-b9bc1b63d5eb}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\programmers\깊이너비우선탐색">
       <UniqueIdentifier>{9a000272-5f38-45ed-9281-03f7e744079a}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\programmers\힙">
       <UniqueIdentifier>{902201af-6132-45b5-b1cd-326124acffcd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ+%3f%3f%3f">
+      <UniqueIdentifier>{c50849c7-005e-434b-9002-b9bc1b63d5eb}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -234,7 +234,10 @@
     <ClCompile Include="programmers\스택큐\기능개발.cpp">
       <Filter>소스 파일\programmers\스택큐</Filter>
     </ClCompile>
-    <ClCompile Include="더맵게.cpp">
+    <ClCompile Include="programmers\힙\더맵게.cpp">
+      <Filter>소스 파일\programmers\힙</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\힙\디스크컨트롤러.cpp">
       <Filter>소스 파일\programmers\힙</Filter>
     </ClCompile>
   </ItemGroup>

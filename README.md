@@ -1,4 +1,4 @@
 # algorithm
 
-Visual Studio 2019 (v142)
+Visual Studio 2022
 windows 10
