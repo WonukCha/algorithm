@@ -240,5 +240,8 @@
     <ClCompile Include="programmers\힙\디스크컨트롤러.cpp">
       <Filter>소스 파일\programmers\힙</Filter>
     </ClCompile>
+    <ClCompile Include="programmers\힙\이중우선순위큐.cpp">
+      <Filter>소스 파일\programmers\힙</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

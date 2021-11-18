@@ -218,6 +218,7 @@
     <ClCompile Include="programmers\힙\디스크컨트롤러.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="programmers\힙\이중우선순위큐.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{10EBA32E-2E08-4587-B278-A212A57BD255}</ProjectGuid>
