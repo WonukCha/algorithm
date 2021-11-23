@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\BOJ+%3f%3f%3f">
       <UniqueIdentifier>{c50849c7-005e-434b-9002-b9bc1b63d5eb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\programmers\정렬">
+      <UniqueIdentifier>{3dc2dd00-aff5-47da-826c-fa3c43430554}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Default.cpp">
@@ -242,6 +245,9 @@
     </ClCompile>
     <ClCompile Include="programmers\힙\이중우선순위큐.cpp">
       <Filter>소스 파일\programmers\힙</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\정렬\K번째수.cpp">
+      <Filter>소스 파일\programmers\정렬</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
