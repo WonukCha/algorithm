@@ -200,7 +200,10 @@
     <ClCompile Include="programmers\스택큐\프린터.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="programmers\정렬\K번째수.cpp" />
+    <ClCompile Include="programmers\정렬\K번째수.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="programmers\정렬\가장 큰 수.cpp" />
     <ClCompile Include="programmers\해시\베스트앨범.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>

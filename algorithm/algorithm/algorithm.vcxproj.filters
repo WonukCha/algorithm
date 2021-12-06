@@ -249,5 +249,8 @@
     <ClCompile Include="programmers\정렬\K번째수.cpp">
       <Filter>소스 파일\programmers\정렬</Filter>
     </ClCompile>
+    <ClCompile Include="programmers\정렬\가장 큰 수.cpp">
+      <Filter>소스 파일\programmers\정렬</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
