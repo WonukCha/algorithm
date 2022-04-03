@@ -34,6 +34,15 @@
     <Filter Include="소스 파일\programmers\정렬">
       <UniqueIdentifier>{3dc2dd00-aff5-47da-826c-fa3c43430554}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Codejam">
+      <UniqueIdentifier>{541a7ef7-942e-45c8-987d-5b5800db58d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Codejam\2022">
+      <UniqueIdentifier>{690bd8b5-6779-4966-b7cd-f74061bf9696}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Codejam\2022\Qualification_Round">
+      <UniqueIdentifier>{f4768c2c-3470-44bd-bd08-5a443d356940}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Default.cpp">
@@ -251,6 +260,18 @@
     </ClCompile>
     <ClCompile Include="programmers\정렬\가장 큰 수.cpp">
       <Filter>소스 파일\programmers\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="Codejam\2022\QR\1.cpp">
+      <Filter>소스 파일\Codejam\2022\Qualification_Round</Filter>
+    </ClCompile>
+    <ClCompile Include="Codejam\2022\QR\2.cpp">
+      <Filter>소스 파일\Codejam\2022\Qualification_Round</Filter>
+    </ClCompile>
+    <ClCompile Include="Codejam\2022\QR\3.cpp">
+      <Filter>소스 파일\Codejam\2022\Qualification_Round</Filter>
+    </ClCompile>
+    <ClCompile Include="Codejam\2022\QR\4.cpp">
+      <Filter>소스 파일\Codejam\2022\Qualification_Round</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
