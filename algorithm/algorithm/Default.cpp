@@ -10,6 +10,10 @@
 #include<set>
 #include<tuple>
 
+#define ll long long
+#define X first
+#define Y second
+
 using namespace std;
 
 int main(void)

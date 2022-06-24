@@ -273,5 +273,14 @@
     <ClCompile Include="Codejam\2022\QR\4.cpp">
       <Filter>소스 파일\Codejam\2022\Qualification_Round</Filter>
     </ClCompile>
+    <ClCompile Include="BOJ\BOJ_2457.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_14501.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\BOJ_15486.cpp">
+      <Filter>소스 파일\BOJ+%3f%3f%3f</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
